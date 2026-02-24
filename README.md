@@ -1,3 +1,5 @@
+SHA-1 hash 1035d068c3f5f180353c98f07abba1b46613dad7    
+
 ### Introduction
 
 This second programming assignment will require you to write an R
